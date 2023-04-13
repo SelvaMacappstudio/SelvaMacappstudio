@@ -1,7 +1,7 @@
 ![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg4ZThiNTY4MDFiMDAxNWI3YmY5YjA1OWQ5NjdmNjA5NjI0MTg3MCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
 <h1 align="center">Hi 👋, I'm Selva Kumar</h1>
 <h3 align="center">A passionate frontend & backend developer from Macappstudio</h3>
-<img align="right" at="coding" width=400 src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" at="coding" width=400 src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selvakumar1995sri&label=Profile%20views&color=0e75b6&style=flat" alt="selvakumar1995sri" /> </p>
 
