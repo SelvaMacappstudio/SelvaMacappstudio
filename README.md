@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg4ZThiNTY4MDFiMDAxNWI3YmY5YjA1OWQ5NjdmNjA5NjI0MTg3MCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Selva Kumar</h1>
 <h3 align="center">A passionate frontend & backend developer from Macappstudio</h3>
 <img align="right" at="coding" width=400 src="https://miro.medium.com/v2/resize:fit:1100/1*ooRqKwk2eeDjqk31nwDGaw.gif">
